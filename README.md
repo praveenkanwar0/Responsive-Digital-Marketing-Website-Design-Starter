@@ -1,4 +1,4 @@
-# Responsive Digtial Marketing Website
+# Responsive Digital Marketing Website
 
 Responsive Digital Marketing Website Design using HTML, CSS and JavaScript
 
